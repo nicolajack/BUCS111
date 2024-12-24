@@ -1,0 +1,3 @@
+﻿PS 7: Problem 0
+Put your response to the reading below.
+The most interesting idea to me in this article was the idea that DNA could do anything involving computation. This is a completely foreign idea to me, and honestly I’m still sort of struggling to wrap my head around the idea. I suppose it makes sense that computing could be done using DNA as the basic tenets of DNA are sort of similar to binary in a way. However, I’m still shocked by how interesting this concept is, especially for being proposed almost thirty years ago. The limitations of this approach are that DNA computers are incredibly slow at serial processing, and that the approach itself is so new that it will take an incredibly long time to refine.
